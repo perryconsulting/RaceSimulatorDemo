@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <libc.h>
+#include <string.h>
 
 // Structures section
 struct Race {
